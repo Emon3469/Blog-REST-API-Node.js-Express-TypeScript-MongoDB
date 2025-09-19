@@ -2,6 +2,9 @@
 
 A comprehensive RESTful API for a blog platform built with Node.js, Express, TypeScript, and MongoDB. This API provides complete functionality for user authentication, blog management, comments, and likes.
 
+<img width="825" height="773" alt="blog-pro" src="https://github.com/user-attachments/assets/2e7892d9-8257-421a-9276-10acfb9e40bf" />
+
+
 ## 🚀 Features
 
 - **User Authentication & Authorization**
